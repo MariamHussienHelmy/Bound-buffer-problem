@@ -1,4 +1,4 @@
-# Produser-Consumer-Solver-With-Multithreading-
+# Produser-Consumer-Solver-With-Multithreading
 > This project solve the produser consumer problem in Twix Chocolate Factory using Multithreading
 ## The problem 
 > Each pack needs 2 machine to put Chocolate into Twix and only one machine put twice so has total number of 2 pieces
